@@ -1,17 +1,13 @@
 # Hello There, I'm André Lima  🖖
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreneji&color=yellow" alt="Profile views" /> </p>
 
-## Welcome! 😊
+## Welcome!
 🔥 Mainframe Developer since 2006.  
-💻 I’m currently working as System Analyst at [Primeit Solucions](https://primeitsolutions.com.br/).  
+💻 I’m currently working as System Analyst.  
 🚀 I’m learning about Web Back-End develoment and Ruby.  
 🌎 I'm from V.N. Cachoeirinha - São Paulo Brazil.  
 📺 I love tv series, my favorite series are Grey's Anatomy, The office, Modern Family, Downton Abbey, Seinfeld and others.  
 😅 Fun fact: I can dance sertanejo.  
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="left"><img width="430em" src="https://github-readme-stats.vercel.app/api?username=andreneji&show_icons=true&theme=gruvbox" alt="andreneji's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreneji&layout=compact&theme=gruvbox" alt="andreneji's most languages"/></p>
 
 ### ⚔️ Tech Stack
 ![Neovim](https://img.shields.io/badge/-neovim-05122A?style=flat&logo=neovim)&nbsp;
